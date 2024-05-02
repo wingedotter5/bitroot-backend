@@ -1,0 +1,1 @@
+- Expects mutlipart/form-data for creating and updating contacts
